@@ -47,6 +47,7 @@ po/*~
 
 # manuscript files
 .docx
+.pdf
 
 # RStudio Connect folder
 rsconnect/
